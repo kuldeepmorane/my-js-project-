@@ -1,0 +1,41 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 1rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.c1 {
+    background-color: #d95980;
+}
+
+.c2 {
+    background-color: #63aac0;
+}
+
+.c3 {
+    background-color: #f99b45;
+}
+
+.c4 {
+    background-color: #38649d;
+}
+
+.Flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: gold;
+}
